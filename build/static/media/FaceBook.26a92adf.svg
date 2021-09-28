@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="293" height="293" viewBox="0 0 293 293">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #1c70bb;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_18414" data-name="Rectangle 18414" class="cls-1" width="293" height="293" transform="translate(1441 832.428)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_372" data-name="Mask Group 372" class="cls-2" transform="translate(-1441 -832.428)">
+    <path id="icons8_Facebook" class="cls-3" d="M297.428,48.829V252.6A44.909,44.909,0,0,1,252.6,297.428H207.77V183.317h29.506a8.2,8.2,0,0,0,8.151-7.173l3.016-24.452a7.894,7.894,0,0,0-1.956-6.358,7.993,7.993,0,0,0-6.113-2.771h-32.6V114.036a16.349,16.349,0,0,1,16.3-16.3h16.3a8.175,8.175,0,0,0,8.151-8.151V62.034a8.2,8.2,0,0,0-7.417-8.069c-.489-.082-11.982-1.06-26.572-1.06-35.863,0-55.67,21.355-55.67,60.071v29.587h-32.6a8.175,8.175,0,0,0-8.151,8.151v24.452a8.175,8.175,0,0,0,8.151,8.151h32.6V297.428H48.829A44.909,44.909,0,0,1,4,252.6V48.829A44.909,44.909,0,0,1,48.829,4H252.6A44.909,44.909,0,0,1,297.428,48.829Z" transform="translate(1437 828)"/>
+  </g>
+</svg>

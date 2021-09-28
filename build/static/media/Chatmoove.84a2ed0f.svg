@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.158" y1="0.5" x2="1.123" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4bbef7"/>
+      <stop offset="0.961" stop-color="#9c9dfe"/>
+      <stop offset="1" stop-color="#265f7c"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_18380" data-name="Rectangle 18380" width="32" height="32" transform="translate(1727 1027)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_361" data-name="Mask Group 361" transform="translate(-1727 -1027)" clip-path="url(#clip-path)">
+    <path id="icons8_chat" d="M16,3.692C8.523,3.692,2.462,9.2,2.462,16a11.739,11.739,0,0,0,4.18,8.868,6.842,6.842,0,0,1-2.55,3.478l0,0a.614.614,0,0,0,.344,1.176,9.815,9.815,0,0,0,6.046-2.305,14.394,14.394,0,0,0,2.409.75,10.038,10.038,0,0,1-.579-3.353c0-6.108,5.521-11.077,12.308-11.077a13.408,13.408,0,0,1,4.8.877C28.557,8.368,22.885,3.692,16,3.692ZM24.615,16c-5.438,0-9.846,3.857-9.846,8.615s4.408,8.615,9.846,8.615a11.085,11.085,0,0,0,3.673-.627,9.507,9.507,0,0,0,5.428,1.844.615.615,0,0,0,.341-1.178,7.181,7.181,0,0,1-2.281-2.755,8.072,8.072,0,0,0,2.685-5.9C34.462,19.857,30.053,16,24.615,16Z" transform="translate(1724.538 1023.923)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

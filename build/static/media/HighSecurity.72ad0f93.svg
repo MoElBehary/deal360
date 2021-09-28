@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_19379" data-name="Rectangle 19379" width="24" height="24" transform="translate(1008 3815)" fill="#ff3535" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_681" data-name="Mask Group 681" transform="translate(-1008 -3815)" clip-path="url(#clip-path)">
+    <path id="icons8_Security_Shield_Green" d="M12.826,1.067a.8.8,0,0,0-.56.205s-4,3.528-8.8,3.528a.8.8,0,0,0-.8.8v6.538C2.667,15.7,4.314,21.56,12.489,25a.8.8,0,0,0,.621,0c8.175-3.443,9.823-9.3,9.823-12.865V5.6a.8.8,0,0,0-.8-.8c-4.795,0-8.8-3.528-8.8-3.528a.8.8,0,0,0-.508-.205ZM12.8,6.4A3.2,3.2,0,0,1,16,9.6v1.067a1.6,1.6,0,0,1,1.6,1.6v4.267a1.6,1.6,0,0,1-1.6,1.6H9.6a1.6,1.6,0,0,1-1.6-1.6V12.266a1.6,1.6,0,0,1,1.6-1.6V9.6A3.2,3.2,0,0,1,12.8,6.4Zm0,1.6a1.6,1.6,0,0,0-1.6,1.6v1.067h3.2V9.6A1.6,1.6,0,0,0,12.8,8Zm0,4.8a1.6,1.6,0,1,0,1.6,1.6A1.6,1.6,0,0,0,12.8,12.8Z" transform="translate(1007.201 3813.934)" fill="#ff3535"/>
+  </g>
+</svg>

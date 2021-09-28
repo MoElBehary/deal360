@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="287" height="287" viewBox="0 0 287 287">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #fbc02d;
+      }
+
+      .cls-4 {
+        fill: #e53935;
+      }
+
+      .cls-5 {
+        fill: #4caf50;
+      }
+
+      .cls-6 {
+        fill: #1565c0;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_18414" data-name="Rectangle 18414" class="cls-1" width="287" height="287" transform="translate(1241 831.382)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_372" data-name="Mask Group 372" class="cls-2" transform="translate(-1241 -831.382)">
+    <g id="icons8_Google" transform="translate(1240.995 831.891)">
+      <path id="Path_52" data-name="Path 52" class="cls-3" d="M286.1,117.589H274.562v-.594H145.643v57.3H226.6a86.012,86.012,0,1,1-23.936-92.829l40.516-40.516a143.1,143.1,0,1,0,45.709,104.7A144.218,144.218,0,0,0,286.1,117.589Z" transform="translate(-2.4 -2.4)"/>
+      <path id="Path_53" data-name="Path 53" class="cls-4" d="M3.784,78.971l47.063,34.514A85.772,85.772,0,0,1,187.529,81.463l40.516-40.516A142.962,142.962,0,0,0,3.784,78.971Z" transform="translate(12.732 -2.4)"/>
+      <path id="Path_54" data-name="Path 54" class="cls-5" d="M131.239,131.04a142.573,142.573,0,0,0,96.037-37.186L182.943,56.339a85.3,85.3,0,0,1-51.7,17.4A85.906,85.906,0,0,1,50.429,16.832L3.717,52.822A143.13,143.13,0,0,0,131.239,131.04Z" transform="translate(12.004 155.446)"/>
+      <path id="Path_55" data-name="Path 55" class="cls-6" d="M154.857,12.594,154.743,12H14.4V69.3H95.354a86.233,86.233,0,0,1-29.272,39.9c.007-.007.014-.007.022-.014L110.437,146.7c-3.137,2.851,47.206-34.429,47.206-106.05A144.216,144.216,0,0,0,154.857,12.594Z" transform="translate(128.843 102.595)"/>
+    </g>
+  </g>
+</svg>

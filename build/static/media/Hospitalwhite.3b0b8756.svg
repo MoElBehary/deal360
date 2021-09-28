@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_253" data-name="Rectangle 253" width="21" height="21" transform="translate(0.498 0)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_11" data-name="Mask Group 11" transform="translate(-0.498)" clip-path="url(#clip-path)">
+    <path id="icons8_hospital_3" d="M8.75.444A1.649,1.649,0,0,0,7.107,2.087V6.84A1.649,1.649,0,0,0,8.75,8.483H13.5A1.649,1.649,0,0,0,15.146,6.84V2.087q0-.015,0-.029A1.713,1.713,0,0,0,13.459.444Zm0,.888h4.709a.81.81,0,0,1,.8.782V6.84a.739.739,0,0,1-.755.755H8.75A.739.739,0,0,1,8,6.84V2.087A.739.739,0,0,1,8.75,1.333Zm1.91,1.332V4H9.328v.888H10.66V6.218h.888V4.886h1.332V4H11.549V2.665ZM2.976,4A1.645,1.645,0,0,0,1.333,5.641v14.79H9.328V15.1h3.553v5.33H21.32V5.641A1.645,1.645,0,0,0,19.677,4H16.034V6.84A2.536,2.536,0,0,1,13.5,9.372H8.75A2.536,2.536,0,0,1,6.219,6.84V4Zm.578,6.218H6.663V12.88H3.554Zm5.774,0h3.553V12.88H9.328Zm6.218,0h3.109V12.88H15.546ZM3.554,15.1H6.663v2.665H3.554Zm11.992,0h3.109v2.665H15.546Z" transform="translate(-0.771 -0.482)" fill="#fff"/>
+  </g>
+</svg>

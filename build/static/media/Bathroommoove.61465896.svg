@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_18887" data-name="Rectangle 18887" width="16" height="16" transform="translate(17826 -6703)" fill="#9c9dfe" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_530" data-name="Mask Group 530" transform="translate(-17826 6703)" clip-path="url(#clip-path)">
+    <path id="icons8_apartment" d="M6,2.667a.667.667,0,0,0-.473.2L2.257,5.475l-.008.007-.01.008h0A.667.667,0,0,0,2,6V16a1.333,1.333,0,0,0,1.333,1.333H16.667A1.333,1.333,0,0,0,18,16V6a.667.667,0,0,0-.238-.51l-.023-.018-3.26-2.6-.005-.005a.667.667,0,0,0-.116-.092l-.005,0h0a.664.664,0,0,0-.822.1L10.257,5.475l-.008.007-.01.008h0A.667.667,0,0,0,10,6a.667.667,0,0,0-.238-.51L6.478,2.868a.667.667,0,0,0-.126-.1h0A.667.667,0,0,0,6,2.667Zm-2,4H5.333V8H4Zm2.667,0H8V8H6.667Zm5.333,0h1.333V8H12Zm2.667,0H16V8H14.667ZM4,9.333H5.333v1.333H4Zm2.667,0H8v1.333H6.667Zm5.333,0h1.333v1.333H12Zm2.667,0H16v1.333H14.667ZM4,12H5.333v1.333H4Zm2.667,0H8v1.333H6.667ZM12,12h1.333v1.333H12Zm2.667,0H16v1.333H14.667ZM4,14.667H5.333V16H4Zm2.667,0H8V16H6.667Zm5.333,0h1.333V16H12Zm2.667,0H16V16H14.667Z" transform="translate(17824 -6705)" fill="#9c9dfe"/>
+  </g>
+</svg>

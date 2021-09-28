@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_18465" data-name="Rectangle 18465" width="24" height="24" transform="translate(246 757)" fill="#46494c" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_391" data-name="Mask Group 391" transform="translate(-246 -757)" clip-path="url(#clip-path)">
+    <path id="icons8_city" d="M6.795,2.046V15.854H5.1V13.023H3.964v2.831h-1.7V26.046H26.046V8.493H19.818V6.387l-1.7-.566V2.265H16.986V5.442l-1.132-.377v-2.8H14.722V4.688ZM7.927,3.617,18.685,7.2V24.913H15.854v-1.78a2.265,2.265,0,1,0-1.132,0v1.78H11.891V15.854H7.927ZM9.059,6.795V7.927h3.4V6.795Zm0,2.265v1.132h8.493V9.059Zm11.891,1.7h2.831v1.7H20.95Zm-11.891.566v1.132h4.53V11.324Zm5.662,0v1.132h2.831V11.324ZM9.059,13.589v1.132h8.493V13.589Zm11.891,0h2.831v1.7H20.95Zm-7.927,2.265v1.132h4.53V15.854Zm7.927.566h2.831v1.7H20.95Zm-16.42,1.7h1.7v1.132H4.53Zm3.4,0h1.7v1.132h-1.7ZM20.95,19.251h2.831v1.7H20.95ZM4.53,20.384h1.7v1.132H4.53Zm3.4,0h1.7v1.132h-1.7Zm13.023,1.7h2.831v1.7H20.95Zm-16.42.566h1.7v1.132H4.53Zm3.4,0h1.7v1.132h-1.7Z" transform="translate(243.844 754.954)" fill="#46494c"/>
+  </g>
+</svg>

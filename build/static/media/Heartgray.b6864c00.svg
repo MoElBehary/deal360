@@ -1,0 +1,16 @@
+<svg id="Group_5159" data-name="Group 5159" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_18401" data-name="Rectangle 18401" width="12" height="12" fill="#8a8f93" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="icons8_heart" d="M4.9,2.8A3.307,3.307,0,0,0,1.6,6.1c0,1.229.926,2.386,2.055,3.572s2.519,2.388,3.626,3.5a.45.45,0,0,0,.636,0c1.107-1.107,2.5-2.309,3.626-3.5S13.6,7.329,13.6,6.1a3.307,3.307,0,0,0-3.3-3.3A3.453,3.453,0,0,0,7.6,4.311,3.453,3.453,0,0,0,4.9,2.8Z" transform="translate(-1.6 -2.8)" fill="#8a8f93"/>
+    </clipPath>
+  </defs>
+  <circle id="Ellipse_115" data-name="Ellipse 115" cx="12" cy="12" r="12" fill="#fff" opacity="0.82"/>
+  <g id="Mask_Group_368" data-name="Mask Group 368" transform="translate(6 7)" clip-path="url(#clip-path)">
+    <g id="Mask_Group_626" data-name="Mask Group 626" transform="translate(0 0.75)" clip-path="url(#clip-path-2)">
+      <path id="icons8_heart_outline_1" d="M9.823,2.289a3.421,3.421,0,0,0-2.575,1.2,3.421,3.421,0,0,0-2.575-1.2A3.147,3.147,0,0,0,1.526,5.436c0,2.387,2.811,4.7,3.594,5.43.9.841,2.128,1.923,2.128,1.923s1.226-1.081,2.128-1.923c.783-.731,3.594-3.044,3.594-5.43A3.147,3.147,0,0,0,9.823,2.289Zm-.966,7.5c-.1.092-.189.171-.261.238-.43.4-.938.86-1.348,1.227-.41-.367-.918-.827-1.348-1.227-.072-.067-.16-.147-.261-.238C4.827,9.056,2.67,7.106,2.67,5.436a2,2,0,0,1,2-2,2.276,2.276,0,0,1,1.667.748l.908.968.908-.968a2.3,2.3,0,0,1,1.667-.748,2,2,0,0,1,2,2C11.825,7.106,9.669,9.056,8.856,9.79Z" transform="translate(-1.248 -2.289)" fill="#8a8f93"/>
+    </g>
+  </g>
+</svg>
