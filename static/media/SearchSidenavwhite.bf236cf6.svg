@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="16" height="16" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_19159" data-name="Rectangle 19159" width="16" height="16" transform="translate(24 188)" fill="#fff" opacity="0.4"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_1" data-name="Repeat Grid 1" clip-path="url(#clip-path)">
+    <g transform="translate(-24 -116)">
+      <g id="Mask_Group_650" data-name="Mask Group 650" transform="translate(0 -72)" clip-path="url(#clip-path-2)">
+        <path id="icons8_search_1" d="M9.9,2.751a6.235,6.235,0,1,0,3.335,11.5l4.5,4.5L19.3,17.192l-4.447-4.436A6.221,6.221,0,0,0,9.9,2.751Zm0,1.467A4.768,4.768,0,1,1,5.135,8.986,4.759,4.759,0,0,1,9.9,4.218Z" transform="translate(20.516 185.249)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
